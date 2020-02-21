@@ -2,3 +2,15 @@ h1 {
   font-family: sans-serif;
   font-weight: bold;
 }
+
+.severe {
+  color: red;
+}
+
+.moderate {
+  color: orange;
+}
+
+.warning {
+  color: yellow;
+}
